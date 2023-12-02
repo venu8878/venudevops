@@ -1,1 +1,3 @@
-# venudevops sample clone from git now push t
+# venudevops sample clone from git now pusco
+
+console.writeLine("venu")
